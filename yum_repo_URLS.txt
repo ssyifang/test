@@ -1,0 +1,2 @@
+kubernetes,k8s  https://mirrors.aliyun.com/kubernetes/yum/repos/kubernetes-el7-x86_64/Packages/
+zabbix https://mirror.tuna.tsinghua.edu.cn/zabbix/zabbix/4.4/rhel/7/x86_64/
